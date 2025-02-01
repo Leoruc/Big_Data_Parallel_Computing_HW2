@@ -1,0 +1,2 @@
+# Big_Data_Parallel_Computing_HW2
+大数据并行计算第二次作业（MPI并行计算相关实现）
